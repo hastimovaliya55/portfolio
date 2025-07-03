@@ -72,7 +72,7 @@ function Projects() {
               isBlog={false}
               title="Netflix Clone"
               description="Netflix Clone is a front-end web app built with React that mimics the look and feel of Netflix. It fetches movie data using the TMDB API and features movie thumbnails, trailers, categories, and a responsive UI for browsing content."
-            
+               ghLink="https://github.com/hastimovaliya55/netflix.git"
             />
           </Col>
         </Row>
